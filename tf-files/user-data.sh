@@ -10,4 +10,4 @@ TOKEN="xxxxxxxxxxxxxxxxxxxxxxxx" #write here your token
 cd /Terraform-Phonebook-Application-deployed-on-AWS/ && git clone  https://$TOKEN@github.com/fhalearslnn/Terraform-Phonebook-Application-deployed-on-AWS.git
 # python3 /home/ec2-user/phonebook/phonebook-app.py
 python3 /devops-projects/Terraform-Phonebook-Application-deployed-on-AWS/phonebook-app.py
-#C:/Users/halea/OneDrive/Masaüstü/devops-projects/Terraform-Phonebook-Application-deployed-on-AWS/
+
