@@ -7,6 +7,6 @@ variable "git-token" {
 
 }
 variable "key-name" {
-  default = "firstkey"
+  default = "<key-name>"
 
 }
